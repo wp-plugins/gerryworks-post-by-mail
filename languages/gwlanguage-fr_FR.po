@@ -1,0 +1,157 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Gerry N. <gerry.ntabuhashe@gerryworks.be>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+
+#. Text in echo
+#: trunk/gw-mail-admin.php:106
+msgid "Allways convert url"
+msgstr "Toujours convertir les url"
+
+#. Text in echo
+#: trunk/gw-mail-admin.php:104
+msgid "Convert Links"
+msgstr "Convertir en liens"
+
+#. Text in echo
+#: trunk/gw-mail-admin.php:101
+msgid "Enter here the height to use for embed video"
+msgstr "Veuillez entrer ici la hauteur à utiliser pour la vidéo embarquée"
+
+#. Text in echo
+#: trunk/gw-mail-admin.php:46
+msgid "Enter here the login you use to access your e-mail account box"
+msgstr "Veuillez entrer ici le nom d'utilisateur que vous utiliser pour accéder à votre compte mail"
+
+#. Text in echo
+#: trunk/gw-mail-admin.php:51
+msgid "Enter here the password related to your login e-mail account"
+msgstr "Veuillez entrer ici le mot de passe relatif au nom d'utilisateur de votre compte mail"
+
+#. Text in echo
+#: trunk/gw-mail-admin.php:96
+msgid "Enter here the width to use for embed video"
+msgstr "Veuillez entrer ici la largeur à utiliser pour les vidéos embarquées"
+
+#. Text in echo
+#: trunk/gw-mail-admin.php:41
+msgid "Enter your imap server port. <b>143</b> by default"
+msgstr "Veuillez entrer le port de votre serveur iMap. La valeur par defaut est <b>143</b>"
+
+#. Text in function
+#: trunk/gw-mail-admin.php:3
+msgid "GERRYWORKS Post by Mail settings"
+msgstr "Reglages GERRYWORKS Post by Mail"
+
+#. Text in echo
+#: trunk/gw-mail-admin.php:58
+msgid "In order to check for mails, each time a page of your blog is loaded."
+msgstr "Pour vérifier les mails reçus, à chaque fois qu'une page de votre blog est chargée."
+
+#. Text in echo
+#: trunk/gw-mail-admin.php:107
+msgid "Never convert url"
+msgstr "Ne jamais convertir les url"
+
+#. Text in echo
+#: trunk/gw-mail-admin.php:89
+msgid "Pending"
+msgstr "En attente"
+
+#. Text in echo
+#: trunk/gw-mail-admin.php:90
+msgid "Published"
+msgstr "Publié"
+
+#. Text in echo
+#: trunk/gw-mail-admin.php:108
+msgid "Select if you want to convert url into links or not. Set to never convert url by default."
+msgstr "Veuillez selectionner si vous voulez convertir les url ou pas. Par defaut, les urls ne sont pas convertis"
+
+#. Text in echo
+#: trunk/gw-mail-admin.php:91
+msgid "Select the status to give to post sent to the mail adress by unknown or contributors users."
+msgstr "Veuillez slectionner le statut à donner aux articles reçu à l'adresse mail par des contributeurs ou utilisateurs inconnus"
+
+#. Text in echo
+#: trunk/gw-mail-admin.php:23
+msgid "Select your mail host"
+msgstr "Selectionnez votre hebergeur mail"
+
+#. Text in echo
+#: trunk/gw-mail-admin.php:15
+msgid "Server Settings"
+msgstr "Reglages du serveurs"
+
+#. Text in echo
+#: trunk/gw-mail-admin.php:39
+msgid "Server port"
+msgstr "Port du serveur"
+
+#. Text in echo
+#: trunk/gw-mail-admin.php:33
+msgid "Server protocol"
+msgstr "Protocol du serveur"
+
+#. Text in echo
+#: trunk/gw-mail-admin.php:29
+msgid "Set to <b>localhost</b> by default. It can be mail.yourdomain.com, imap.youdomain.com"
+msgstr "<b>localhost</b> par defaut. Peut être mail.yourdomain.com, imap.ourdomain.com"
+
+#. Text in echo
+#: trunk/gw-mail-admin.php:35
+msgid "Sets to <b>notls</b> by default, can be also <b>ssl, tls or notls</b>"
+msgstr "Vaut <b>notls</b> par defaut. Peut prendre les valeurs <b>ssl, tls ou notls</b>"
+
+#. Text in echo
+#: trunk/gw-mail-admin.php:87
+msgid "Status of posted mail"
+msgstr "Statut des mails reçus"
+
+#. Text in echo
+#: trunk/gw-mail-admin.php:62
+#: trunk/gw-mail-admin.php:112
+msgid "Update settings"
+msgstr "Mettre à jour"
+
+#. Text in echo
+#: trunk/gw-mail-admin.php:55
+msgid "Use iFrame to check post"
+msgstr "Utiliser un iFrame pour vérifier les mails"
+
+#. Text in echo
+#: trunk/gw-mail-admin.php:99
+msgid "Video Height"
+msgstr "Hauteur de la video"
+
+#. Text in echo
+#: trunk/gw-mail-admin.php:94
+msgid "Video Width"
+msgstr "Largeur de la video"
+
+#. Text in echo
+#: trunk/gw-mail-admin.php:27
+msgid "Your Imap Server"
+msgstr "Votre serveur Imap"
+
+#. Text in echo
+#: trunk/gw-mail-admin.php:20
+msgid "Your host"
+msgstr "Votre hébergeur"
+
+#. Text in echo
+#: trunk/gw-mail-admin.php:44
+msgid "Your login"
+msgstr "Votre non d'utilisateur"
+
+#. Text in echo
+#: trunk/gw-mail-admin.php:49
+msgid "Your password"
+msgstr "Votre mot de passe"
+
