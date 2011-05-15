@@ -1,6 +1,6 @@
 === GERRYWORKS Post by Mail ===
 Contributors: gerryworks
-Donate link: http://gerryworks.be/me-soutenir
+Donate link: http://gerryworks.be/faire-un-don
 Tags: publish, post, emailpost
 Requires at least: 2.8
 Tested up to: 3.1.2
@@ -79,9 +79,8 @@ Essayez le, je suis sûr ce plugin peut être très utile.
 
 == Screenshots ==
 
-1. This screen shot description corresponds to screenshot-1.(png|jpg|jpeg|gif). Note that the screenshot is taken from
-the directory of the stable readme.txt, so in this case, `/tags/4.3/screenshot-1.png` (or jpg, jpeg, gif)
-2. This is the second screen shot
+1. The server settings form view. / Aperçu du formulaire des reglages du server.
+2. Other settings for vie. / Aperçu du formulaire des autres réglages.
 
 == Changelog ==
 
