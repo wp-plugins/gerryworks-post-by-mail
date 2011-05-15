@@ -4,7 +4,7 @@ Donate link: http://gerryworks.be/me-soutenir
 Tags: publish, post, emailpost
 Requires at least: 2.8
 Tested up to: 3.1.2
-Stable tag: 1.0
+Stable tag: trunk
 
 Replace and add security to the default post by mail included in WP. Pour remplacer de façon sûre la publication par mail déjà présent dans WP.
 
